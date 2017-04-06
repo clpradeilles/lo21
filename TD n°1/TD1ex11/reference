@@ -1,0 +1,14 @@
+double& d1=36; // erreur impossible instancier reference avec constante
+double d2=36; // ok
+double& ref=d2; // ok
+ref=4; // ok
+const double d3=36; // ok
+const double& d4=36; // ok instanciation possible avec une constante si utilisation de const
+const double& d5=d2; // ok
+d5=21; // erreur déclarer avec const ne peut etre modifier
+const double& d6=d3; // ok
+double& ref2=d6; // erreur impossible d'initialiser un non-const avec un const
+int i=4; // ok
+double& d7=i; // erreur d7 est de type double& doit etre instancier avec un doublr
+const double& d8=i; // ok conversion possible si const
+d8=3;// erreur

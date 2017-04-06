@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1489046300 source:/Users/pradeilles/Desktop/TD1/TD1ex5/fonction.cpp
+	<stdio.h>
+	<iostream>
+
+1489046163 source:/Users/pradeilles/Desktop/TD1/TD1ex5/main.cpp
+	<iostream>
+	"header.h"
+
+1489046336 /Users/pradeilles/Desktop/TD1/TD1ex5/header.h
+

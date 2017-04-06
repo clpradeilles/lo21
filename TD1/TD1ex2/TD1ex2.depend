@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489045272 source:/Users/pradeilles/Desktop/TD1/TD1ex2/main.cpp
+	<iostream>
+	"fonction.h"
+
+1489045251 source:/Users/pradeilles/Desktop/TD1/TD1ex2/fonction.cpp
+	<iostream>
+	<string>
+
+1489045251 /Users/pradeilles/Desktop/TD1/TD1ex2/fonction.cpp
+	<iostream>
+	<string>
+
+1489045479 /Users/pradeilles/Desktop/TD1/TD1ex2/fonction.h
+	"essai.h"
+
+1489045479 /Users/pradeilles/Desktop/TD1/TD1ex2/essai.h
+	"fonction.h"
+
